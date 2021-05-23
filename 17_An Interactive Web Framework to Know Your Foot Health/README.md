@@ -1,8 +1,8 @@
 Topic : An Interactive Web Framework To Know Your Foot Health
 
 Group Members :
-Abhishek Laxman Pote
-Tanmay Shailesh Rajadhyaksha
+Abhishek Laxman Pote,
+Tanmay Shailesh Rajadhyaksha,
 Abhishek Arun Rai
 
 Description:
